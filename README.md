@@ -1,4 +1,4 @@
-👉 I am a Senior Software Engineer with more than 𝟳 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in software development. 
+👉 I am a Senior Software Engineer with more than 𝟴 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in software development. 
 
 💡 I am excited to empower and help clients worldwide implement the software solutions they need, bringing their business to the next level.
 
@@ -23,7 +23,7 @@
 • jQuery  
 
 ✅ 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞:  
-• Microservices, Distributed systems,   
+• Microservices, Distributed systems   
 • Monolithic architecture  
 • Clean architecture  
 • Clean code  
