@@ -15,7 +15,8 @@
 • Postman, Octopus Deploy, TeamCity  
 
 ✅ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:  
-• Angular  
+• Angular
+• React 
 • TypeScript  
 • Javascript  
 • HTML5  
