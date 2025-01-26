@@ -6,13 +6,13 @@
 
 𝐇𝐢𝐠𝐡𝐥𝐲 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐰𝐢𝐭𝐡:  
 ✅ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱:  
-• C#, .NET, ASP.NET Core, REST APIs,
-• Azure services (Azure DevOps, Azure Serice Bus, Azure Functions, Azure Durable Functions, Azure Blob Storage, Azure App Insights, Azure Cosmos DB, Azure Key Vault)
-• MVC
-• Entity Framework, T-SQL, MySQL
-• signalR
-• xUnit
-• Postman, Docker, Insomnia, Octopus Deploy, TeamCity
+• C#, .NET, ASP.NET Core, REST APIs  
+• Azure services (Azure DevOps, Azure Serice Bus, Azure Functions, Azure Durable Functions, Azure Blob Storage, Azure App Insights, Azure Cosmos DB, Azure Key Vault)  
+• MVC  
+• Entity Framework, T-SQL, MySQL  
+• signalR  
+• xUnit  
+• Postman, Docker, Insomnia, Octopus Deploy, TeamCity  
 
 ✅ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:  
 • Angular  
