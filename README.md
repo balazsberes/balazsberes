@@ -1,18 +1,18 @@
-👉 I am a Senior Software Engineer with more than 𝟴 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in software development. 
+👉 I am a Senior Software Engineer with more than 𝟭𝟬 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in software development. 
 
 💡 I am excited to empower and help clients worldwide implement the software solutions they need, bringing their business to the next level.
 
-⚠ 𝗢𝗻𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 𝗿𝗲𝗺𝗼𝘁𝗲 𝘄𝗼𝗿𝗸❗(I've been working remotely for more than 4 years.)
+⚠ 𝗢𝗻𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 𝗿𝗲𝗺𝗼𝘁𝗲 𝘄𝗼𝗿𝗸❗(I've been working remotely for more than 7 years.)
 
 𝐇𝐢𝐠𝐡𝐥𝐲 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐰𝐢𝐭𝐡:  
 ✅ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱:  
-• C#, .NET, ASP.NET Core, REST APIs,  
-• Azure services (Azure DevOps, Azure Serice Bus, Azure Functions, Azure Durable Functions, Azure Blob Storage, Azure App Insights, Azure Cosmos DB, Azure Key Vault)  
-• MVC  
-• Entity Framework, T-SQL, MySQL  
-• signalR  
-• xUnit  
-• Postman, Octopus Deploy, TeamCity  
+• C#, .NET, ASP.NET Core, REST APIs,
+• Azure services (Azure DevOps, Azure Serice Bus, Azure Functions, Azure Durable Functions, Azure Blob Storage, Azure App Insights, Azure Cosmos DB, Azure Key Vault)
+• MVC
+• Entity Framework, T-SQL, MySQL
+• signalR
+• xUnit
+• Postman, Docker, Insomnia, Octopus Deploy, TeamCity
 
 ✅ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:  
 • Angular  
